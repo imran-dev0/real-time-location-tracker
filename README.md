@@ -25,5 +25,6 @@ A web-based real-time location tracking app built using **Node.js**, **Express**
 
 ## 📸 Demo
 
-> 💡 Live demo coming soon...
+> 💡 real-time-location-tracker.up.railway.app
+
 
